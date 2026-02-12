@@ -4,6 +4,6 @@ Este é meu currículo profissional, tenho 15 anos, me chamo Joao Vitor Neres Te
 - 🔭 Atualmente trabalhando em: TI-DEV.
 - 🌱 Aprendendo: desenvolver código.
 - 💬 Dominando: Tenho domínio sobre o Canva, Pacote Office, Inglês básico.
-- 📄 Currículo: 
+- 📄 Currículo: TIME - Pacote Office, Windows 10; SENAI - Almoxarifado, DEV (Desenvolvimento de Sistemas); 
 - 📫 Como me encontrar: neresteixeirajoaovitor@gmail.com.
 

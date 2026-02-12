@@ -6,4 +6,4 @@ Este é meu currículo profissional, tenho 15 anos, me chamo Joao Vitor Neres Te
 - 💬 Dominando: Tenho domínio sobre o Canva, Pacote Office, Inglês básico.
 - 📄 Currículo: 
 - 📫 Como me encontrar: neresteixeirajoaovitor@gmail.com.
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+

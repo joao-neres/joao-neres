@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Olá, boa tarde 👋
+Este é o meu currículo académico
+🌱 Estou cursando DEV- Desenvolvimento de Sistemas
 <!--
 **joao-neres/joao-neres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

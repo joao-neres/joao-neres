@@ -7,3 +7,6 @@ Este é meu currículo profissional, tenho 15 anos, me chamo Joao Vitor Neres Te
 - 📄 Currículo: TIME - Pacote Office, Windows 10; SENAI - Almoxarifado, DEV (Desenvolvimento de Sistemas); 
 - 📫 Como me encontrar: neresteixeirajoaovitor@gmail.com
 
+<a href="mailto:neresteixeirajoaovitor@gmail.com">
+  <img src="https://skillicons.dev" alt="Gmail" width="40" height="40" />
+</a>
